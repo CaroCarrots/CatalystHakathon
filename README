@@ -1,0 +1,41 @@
+Hi! Here is the project from Team Access Denied. 
+All of our team members are first to hakathon so we tried our best to create a website by helping with framer.
+We tried to convert the design from framer by using claude, but we failed.
+We are not sure how to convert the code correctly.
+Team Access Denied - Hackathon Project
+Hi! 👋 Welcome to our project repository.
+
+This project is the result of our team's first-ever hackathon, and we're excited to share it with you! All of our team members are beginners, and we did our best to create a website using the Framer design tool.
+
+About the Project
+Our initial goal was to design a website using Framer to create a website that recommend the best hardware deals to gaming computer buyers based on the games they played. 
+We want to make this website connect to the users' Steam account, so that this website can make the best recommendation for the buyers.
+
+Challenges We Faced
+As first-time participants in a hackathon, we faced several challenges:
+
+Learning Curve: Understanding how to effectively use React and Next.js was a steep learning curve for our team members.
+Code Implementation Challenge: We are unable to build the big backend dataset due to our free account, so it is impossible for us to implement the block on recommendar system.
+
+Despite the challenges, this project was a valuable learning experience for us. We learned:
+
+Basic principles of web design using Framer, CSS and Javascript.
+The importance of understanding the connection between design and code.
+How to collaborate effectively as a team under tight time constraints.
+Future Improvements
+While we didn't achieve everything we set out to do, we're motivated to continue learning and improving. Our next steps might include:
+
+Learning how to properly convert Framer designs into code.
+Exploring other tools and methods to bridge the gap between design and development.
+Participating in more hackathons to build our skills and confidence.
+Learning more skills on frontend development and also AI tools using.
+
+How to Use This Repository
+Since this project is a work in progress and was part of a learning experience, we only provide the URL for the website we built. We did not know how to convert them into code. However, you are welcome to explore the repository to see what we've worked on. 
+If you're experienced in Framer or web development, any feedback or contributions would be greatly appreciated!
+
+Thank you for checking out our project! If you have any tips or resources for us, feel free to share. We're eager to learn and grow from this experience.
+
+Team Access Denied
+First-time Hackathon Participants
+
